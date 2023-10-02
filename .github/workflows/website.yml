@@ -27,7 +27,7 @@ jobs:
     - name: build website
       run: make html
 
-    - Deploy changes:
+    - name: Deploy changes
       uses: JamesIves/github-pages-deploy-action@v4
       with:
         branch: gh-pages
