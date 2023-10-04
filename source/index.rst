@@ -12,3 +12,15 @@
 
    open-positions
 
+
+Welcome
+-------
+
+Welcome to the (temporary) webpage of the MaMMoS project. The project will start in January 2024.
+
+
+Job vacancies
+-------------
+
+Available positions for this project are listed under `open positions <open-positions.html>`__.
+
