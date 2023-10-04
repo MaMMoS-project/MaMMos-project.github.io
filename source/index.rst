@@ -24,3 +24,8 @@ Job vacancies
 
 Available positions for this project are listed under `open positions <open-positions.html>`__.
 
+
+Project summary
+---------------
+
+[to follow]
