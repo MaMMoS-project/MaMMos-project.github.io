@@ -51,31 +51,3 @@ Disclaimer
 Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not
 necessarily reflect those of the European Union or European Health and Digital Executive Agency (HADEA). Neither
 the European Union nor the granting authority can be held responsible for them.
-
-.. image:: _static/EN_FundedbytheEU_RGB_POS.png
-   :width: 400
-
-
-Sectors
--------
-
-**Magnetic materials** - power generation, energy conversion, e-mobility reduction of critical raw materials
-
-**Magnetic sensors** - consumer and industrial applications higher linear range and better integration
-capabilities
-
-
-Objectives
-----------
-
-**Data fusion** - Make magnetic materials data useable
-
-**Multiscale modelling suite** - Enhance material knowledge at all length scales
-
-**Interpretable machine learning** - Accelerate magnetic materials development
-
-**Materials evaluation and optimization** - Design magnetic materials and devices
-
-**European integration** - Embed MaMMoS software in EU materials platform
-
-
