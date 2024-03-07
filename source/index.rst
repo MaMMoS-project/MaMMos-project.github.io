@@ -38,6 +38,3 @@ Disclaimer
 Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not
 necessarily reflect those of the European Union or European Health and Digital Executive Agency (HADEA). Neither
 the European Union nor the granting authority can be held responsible for them.
-
-.. image:: _static/EN_FundedbytheEU_RGB_POS.png
-   :width: 400
