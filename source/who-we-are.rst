@@ -5,9 +5,6 @@ Who we are
 University of Continuing Education Krems - Austria
 --------------------------------------------------
 
-.. image:: _static/LOGO-DONAU-UNI-Blau.jpg
-    :height: 200
-
 **Information:** The University for Continuing Education Krems is an Austrian university specializing in further
 education for working professionals. The Department for Integrated Sensor Systems is located in Wiener Neustadt,
 Lower Austria.
@@ -21,9 +18,6 @@ demonstrator,  define benchmarks, and validate MaMMoS against benchmarks.
 Leibnitz IFW - Dresden
 ----------------------
 
-.. image:: _static/IFW_Logo_EN.png
-    :height: 200
-
 **Information:** The Leibniz Institute for Solid State and Materials Research Dresden is a non-university
 research institute and a member of the Leibniz Association. It conducts materials science on a scientific basis.
 
@@ -33,9 +27,6 @@ modelling.
 
 Uppsala Universitet
 -------------------
-
-.. image:: _static/Logo_uu.jpg
-    :height: 200
 
 **Information:** Uppsala University is the oldest Nordic university and today a comprehensive research university
 that conducts research and education at the highest level.
@@ -47,15 +38,6 @@ which are necessary to create the multiscale modelling suite with high accuracy 
 
 CNRS Grenoble
 -------------
-
-.. image:: _static/logo_cnrs.png
-    :height: 200
-
-.. image:: _static/logo_neel.jpg
-    :height: 200
-
-.. image:: _static/logo_uga.png
-    :height: 200
 
 **Information:** The French National Centre for Scientific Research is the French state research organization and
 is the largest fundamental science agency in Europe. 
@@ -69,9 +51,6 @@ level performance.
 Max-Planck-Gesellschaft
 -----------------------
 
-.. image:: _static/logo_mpsd.png
-    :height: 200
-
 **Information:** The Max Planck Institute for the Structure and Dynamics of Matter (MPSD) is a non-university
 research institution under the auspices of the Max Planck Society (MPG). The institute primarily conducts basic
 research in the field of experimental and theoretical physics and chemistry.
@@ -83,11 +62,8 @@ standard workflows easy to execute and more complicated workflows possible, to p
 procedures and appropriate documentation. Future extensions in functionality must be possible. 
 
 
-Siemens AG
-----------
-
-.. image:: _static/siemens-logo-petrol-rgb.png
-    :height: 100
+`Siemens AG <https://www.siemens.com/>`_
+----------------------------------------
 
 **Information:** Siemens AG is a German multinational technology group. Its business areas include automation
 and digitalisation in the process and manufacturing industries, intelligent infrastructure for buildings and
@@ -101,11 +77,8 @@ results of the project and to increase awareness for the benefits of data integr
 modelling for the development of materials for the European Green Deal.
 
 
-Robert Bosch GmbH
------------------
-
-.. image:: _static/logo_bosch_red_blue.png
-    :height: 200
+`Robert Bosch GmbH <https://www.bosch.com/>`_
+---------------------------------------------
 
 **Information:** Robert Bosch GmbH is a German multinational engineering and technology company. Bosch's core
 operating areas are spread across four business sectors: mobility, consumer goods, industrial technology,
