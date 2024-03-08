@@ -2,8 +2,8 @@ Who we are
 ==========
 
 
-University of Continuing Education Krems - Austria
---------------------------------------------------
+`University of Continuing Education Krems - Austria <https://www.donau-uni.ac.at/en.html>`_
+-------------------------------------------------------------------------------------------
 
 **Information:** The University for Continuing Education Krems is an Austrian university specializing in further
 education for working professionals. The Department for Integrated Sensor Systems is located in Wiener Neustadt,
@@ -15,8 +15,8 @@ Integrate MaMMoS software suite in EU platforms for materials simulations, and t
 demonstrator,  define benchmarks, and validate MaMMoS against benchmarks.
 
 
-Leibnitz IFW - Dresden
-----------------------
+`Leibnitz IFW - Dresden <https://www.ifw-dresden.de/>`_
+-------------------------------------------------------
 
 **Information:** The Leibniz Institute for Solid State and Materials Research Dresden is a non-university
 research institute and a member of the Leibniz Association. It conducts materials science on a scientific basis.
@@ -25,8 +25,8 @@ research institute and a member of the Leibniz Association. It conducts material
 modelling.
 
 
-Uppsala Universitet
--------------------
+`Uppsala Universitet <https://www.uu.se/en/>`_
+----------------------------------------------
 
 **Information:** Uppsala University is the oldest Nordic university and today a comprehensive research university
 that conducts research and education at the highest level.
@@ -36,8 +36,8 @@ of the most important material parameters on all relevant length scales (atomist
 which are necessary to create the multiscale modelling suite with high accuracy and predictive power.
 
 
-CNRS Grenoble
--------------
+`CNRS Grenoble <https://www.cnrs.fr/en/the-cnrs>`_
+--------------------------------------------------
 
 **Information:** The French National Centre for Scientific Research is the French state research organization and
 is the largest fundamental science agency in Europe. 
@@ -48,8 +48,8 @@ machine learning and for validating multiscale simulations including structural 
 level performance.
 
 
-Max-Planck-Gesellschaft
------------------------
+`Max-Planck-Gesellschaft <https://www.mpsd.mpg.de/en>`_
+-------------------------------------------------------
 
 **Information:** The Max Planck Institute for the Structure and Dynamics of Matter (MPSD) is a non-university
 research institution under the auspices of the Max Planck Society (MPG). The institute primarily conducts basic
@@ -86,10 +86,3 @@ energy and building technology.
 
 **Role in the Project:** Robert Bosch GmbH is involved in several workpackages as Multi-scale Characterisation,
 Multi-scale Modelling, Use Case Demonstration and Communication, Dissemination and Exploitation.
-
-
-Contact Us
-----------
-
-Inquiries can be directed to Thomas Schrefl
-:email:`thomas.schrefl@donau-uni.ac.at`
