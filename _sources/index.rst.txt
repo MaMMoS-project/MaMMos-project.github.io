@@ -32,6 +32,15 @@ characterisation, and numerical optimisation.
     :width: 600
 
 
+Further information
+-------------------
+
+:email:`thomas.schrefl@donau-uni.ac.at`
+
+Project: 101135546 — MaMMoS
+
+`HORIZON-CL4-2023-DIGITAL-EMERGING-01 <https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-cl4-2023-digital-emerging-01-12;callCode=null;freeTextSearchKeyword=2023-DIGITAL-EMERGING-01;matchWholeText=true;typeCodes=1>`_
+
 Disclaimer
 ----------
 
