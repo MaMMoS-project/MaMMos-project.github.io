@@ -1,10 +1,6 @@
 Open positions
 ==============
 
-Currently no positions advertised.
-
-.. comment:
-
-  - One position for Machine Learning (ML)/AI at the Max Planck Compute and Data Facility (Garching, Germany): https://www.mpcdf.mpg.de/95754/job_full_offer_20975628?c=6324
-  
-  
+One position for a Computational Scientist at the Max Planck Institute
+for Structure Dynamics of Matter (Hamburg, Germany):
+https://jobs.b-ite.com/jobposting/3068a741fa460e58196157af0bd7f1955b3c2baf5
