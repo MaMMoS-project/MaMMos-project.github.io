@@ -86,3 +86,10 @@ energy and building technology.
 
 **Role in the Project:** Robert Bosch GmbH is involved in several workpackages as Multi-scale Characterisation,
 Multi-scale Modelling, Use Case Demonstration and Communication, Dissemination and Exploitation.
+
+
+Contact Us
+----------
+
+Inquiries can be directed to Thomas Schrefl
+:email:`thomas.schrefl@donau-uni.ac.at`
