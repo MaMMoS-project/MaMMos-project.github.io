@@ -2,40 +2,6 @@ Who we are
 ==========
 
 
-`University of Continuing Education Krems - Austria <https://www.donau-uni.ac.at/en.html>`_
--------------------------------------------------------------------------------------------
-
-**Information:** The University for Continuing Education Krems is an Austrian university specializing in further
-education for working professionals. The Department for Integrated Sensor Systems is located in Wiener Neustadt,
-Lower Austria.
-
-**Role in the project:** The University of Continuing Education Krems is the project coordinator and involved in
-all workpackages. The main tasks are Coordination and Management and Use Case Demonstration, which involves to
-Integrate MaMMoS software suite in EU platforms for materials simulations, and to show use cases in an online
-demonstrator,  define benchmarks, and validate MaMMoS against benchmarks.
-
-
-`Leibnitz IFW - Dresden <https://www.ifw-dresden.de/>`_
--------------------------------------------------------
-
-**Information:** The Leibniz Institute for Solid State and Materials Research Dresden is a non-university
-research institute and a member of the Leibniz Association. It conducts materials science on a scientific basis.
-
-**Role in the Project:** Leibnitz IFW Dresden participates in multi-scale characterization and multi-scale
-modelling.
-
-
-`Uppsala Universitet <https://www.uu.se/en/>`_
-----------------------------------------------
-
-**Information:** Uppsala University is the oldest Nordic university and today a comprehensive research university
-that conducts research and education at the highest level.
-
-**Role in the Project:** Uppsala University leads workpackage Multi-scale Modelling. This includes the generation
-of the most important material parameters on all relevant length scales (atomistic, micromagnetic, device scale),
-which are necessary to create the multiscale modelling suite with high accuracy and predictive power.
-
-
 `CNRS Grenoble <https://www.cnrs.fr/en/the-cnrs>`_
 --------------------------------------------------
 
@@ -46,6 +12,16 @@ is the largest fundamental science agency in Europe.
 Characterisation. CNRS will Provide experimental data for correcting systematic errors of simulations with
 machine learning and for validating multiscale simulations including structural data, magnetic data and device
 level performance.
+
+
+`Leibnitz IFW - Dresden <https://www.ifw-dresden.de/>`_
+-------------------------------------------------------
+
+**Information:** The Leibniz Institute for Solid State and Materials Research Dresden is a non-university
+research institute and a member of the Leibniz Association. It conducts materials science on a scientific basis.
+
+**Role in the Project:** Leibnitz IFW Dresden participates in multi-scale characterization and multi-scale
+modelling.
 
 
 `Max-Planck-Gesellschaft <https://www.mpsd.mpg.de/en>`_
@@ -60,6 +36,17 @@ Software framework and development, which includes to provide the software engin
 required (i) to glue the different length scale models together, to provide a software framework that makes
 standard workflows easy to execute and more complicated workflows possible, to provide robust installation
 procedures and appropriate documentation. Future extensions in functionality must be possible. 
+
+
+`Robert Bosch GmbH <https://www.bosch.com/>`_
+---------------------------------------------
+
+**Information:** Robert Bosch GmbH is a German multinational engineering and technology company. Bosch's core
+operating areas are spread across four business sectors: mobility, consumer goods, industrial technology,
+energy and building technology. 
+
+**Role in the Project:** Robert Bosch GmbH is involved in several workpackages as Multi-scale Characterisation,
+Multi-scale Modelling, Use Case Demonstration and Communication, Dissemination and Exploitation.
 
 
 `Siemens AG <https://www.siemens.com/>`_
@@ -77,12 +64,25 @@ results of the project and to increase awareness for the benefits of data integr
 modelling for the development of materials for the European Green Deal.
 
 
-`Robert Bosch GmbH <https://www.bosch.com/>`_
----------------------------------------------
+`University of Continuing Education Krems - Austria <https://www.donau-uni.ac.at/en.html>`_
+-------------------------------------------------------------------------------------------
 
-**Information:** Robert Bosch GmbH is a German multinational engineering and technology company. Bosch's core
-operating areas are spread across four business sectors: mobility, consumer goods, industrial technology,
-energy and building technology. 
+**Information:** The University for Continuing Education Krems is an Austrian university specializing in further
+education for working professionals. The Department for Integrated Sensor Systems is located in Wiener Neustadt,
+Lower Austria.
 
-**Role in the Project:** Robert Bosch GmbH is involved in several workpackages as Multi-scale Characterisation,
-Multi-scale Modelling, Use Case Demonstration and Communication, Dissemination and Exploitation.
+**Role in the project:** The University of Continuing Education Krems is the project coordinator and involved in
+all workpackages. The main tasks are Coordination and Management and Use Case Demonstration, which involves to
+Integrate MaMMoS software suite in EU platforms for materials simulations, and to show use cases in an online
+demonstrator,  define benchmarks, and validate MaMMoS against benchmarks.
+
+
+`Uppsala Universitet <https://www.uu.se/en/>`_
+----------------------------------------------
+
+**Information:** Uppsala University is the oldest Nordic university and today a comprehensive research university
+that conducts research and education at the highest level.
+
+**Role in the Project:** Uppsala University leads workpackage Multi-scale Modelling. This includes the generation
+of the most important material parameters on all relevant length scales (atomistic, micromagnetic, device scale),
+which are necessary to create the multiscale modelling suite with high accuracy and predictive power.
