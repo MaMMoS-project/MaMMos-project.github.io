@@ -13,7 +13,6 @@
    Home <self>
    objectives
    who-we-are
-   open-positions
    events
    related-eu-projects
 
