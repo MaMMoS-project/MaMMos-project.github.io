@@ -14,6 +14,7 @@
    objectives
    who-we-are
    events
+   news
    related-eu-projects
 
 

@@ -86,3 +86,33 @@ that conducts research and education at the highest level.
 **Role in the Project:** Uppsala University leads workpackage Multi-scale Modelling. This includes the generation
 of the most important material parameters on all relevant length scales (atomistic, micromagnetic, device scale),
 which are necessary to create the multiscale modelling suite with high accuracy and predictive power.
+
+
+Team
+====
+
+.. csv-table::
+    :header: "Name", "Affiliation"
+    :widths: 50, 100
+
+    "`Andreas Marek <https://www.mpcdf.mpg.de/person/110526>`_", "Max-Planck Computing and Data Facility"
+    "`Claas Filies <https://www.donau-uni.ac.at/de/universitaet/organisation/mitarbeiterinnen/person/4295351041>`_", "UWK Krems"
+    "`Edgar Bonet <https://www.researchgate.net/profile/Edgar-Bonet>`_", "NEEL, CNRS"
+    "Gotthard Rieger", "Siemens AG"
+    "`Hans Fangohr <https://www.mpsd.mpg.de/person/109584>`_", "MPSD"
+    "`Heike Herper <https://www.uu.se/en/contact-and-organisation/staff?query=N11-709>`_", "Uppsala University"
+    "Jonas Winkler", "IFW Dresden"
+    "`Jörg Buschbeck <https://www.linkedin.com/in/j%C3%B6rg-buschbeck-96305931/?originalSubdomain=de>`_", "Siemens AG"
+    "`Lukas Fink <https://www.linkedin.com/in/dr-lukas-fink-507159236/?original_referer=https%3A%2F%2Fwww%2Ebing%2Ecom%2F&originalSubdomain=de>`_", "NEEL, CNRS"
+    "`Martin Lang <https://www.mpsd.mpg.de/person/111499/2736>`_", "MPSD"
+    "`Nora Dempsey <https://www.cnrs.fr/en/person/nora-dempsey>`_", "NEEL, CNRS"
+    "`Panpan Zhao <https://www.researchgate.net/profile/Panpan-Zhao-3>`_", "IFW Dresden"
+    "`Sam Holt <https://www.mpsd.mpg.de/person/124786>`_", "MPSD"
+    "`Stefan Tibus <https://www.linkedin.com/in/stefantibus/?original_referer=https%3A%2F%2Fwww%2Ebing%2Ecom%2F&originalSubdomain=de>`_", "Robert Bosch GmbH"
+    "`Swapneel Pathak <https://www.mpsd.mpg.de/person/122138/2736>`_", "MPSD"
+    "`Thibaut Devillers <https://www.linkedin.com/in/thibaut-devillers-5b92065/>`_", "NEEL, CNRS"
+    "`Thomas George Woodcock <https://www.ifw-dresden.de/about-us/people/dr-thomas-george-woodcock/>`_", "IFW Dresden"
+    "`Thomas Schrefl <https://www.donau-uni.ac.at/de/universitaet/organisation/mitarbeiterinnen/person/4295258603>`_", "UWK Krems"
+    "`Timoteo Colnaghi <https://www.mpcdf.mpg.de/person/110573>`_", "Max-Planck Computing and Data Facility"
+    "`Ulrike Lachner <https://www.donau-uni.ac.at/en/university/organization/employees/person/4295261281>`_", "UWK Krems"
+    "`Wilfried Hortschitz <http://wwwpub.donau-uni.ac.at/de/universitaet/organisation/mitarbeiterinnen/person/4295237097>`_", "UWK Krems"
