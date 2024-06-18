@@ -1,9 +1,19 @@
 Events
 ======
 
+AI4AM2024 – Artificial Intellegence for Advanced Materials
+----------------------------------------------------------
+
+From 02nd – 04th July AI4AM2024 takes place in Barcelona, Spain.
+Timoteo Colnaghi (Max Planck Computing and Data Facility) takes part
+in the conference with his contribution “The role of AI and ML in
+the development of a Multiscale modelling suite for sustainable
+magnetic materials”
+:download:`Download abstract! <./_files/AI4AM2024_Colnaghi_Timoteo.pdf>`
+
 
 JOINT WORKSHOP ADVANCED MATERIALS CHARACTERISATION AND MODELLING PROJECTS
-------------------------------------------------------------------------- 
+-------------------------------------------------------------------------
 
 
 .. image:: _static/workshop_2024-02-26.jpg
