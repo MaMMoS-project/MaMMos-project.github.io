@@ -38,6 +38,29 @@ diverse calue chains and industrial markets.
 :download:`Download abstract! <./_files/S03_T08_ThomasSchrefl.pdf>`
 
 
+Lange Nacht der Forschung
+-------------------------
+
+
+On 24. May 2024, the `Lange Nacht der Forschung <https://www.donau-uni.ac.at/de/aktuelles/news/2024/lange-nacht-der-forschung-2024.html>`
+took place at various venues across Austria. Our research booth in Krems showcased
+how micromagnetic simulations and artificial intelligence can accelerate the discovery of
+eco-friendly, sustainable, and cost-effective permanent magnets. Visitors actively
+participated in the research by drawing magnets with various phase distributions and
+crystal structures using felt-tip pens. Our trained AI then analyzed their designs,
+predicting their potential performance. Through discussions, we emphasized the importance
+of magnet research for the green energy transition in the fight against climate change.
+
+.. image:: _static/ln_program.png
+    :width: 600
+
+.. image:: _static/LNF1.png
+    :width: 600
+
+.. image:: _static/LNF2.jpg
+    :width: 600
+
+
 JOINT WORKSHOP ADVANCED MATERIALS CHARACTERISATION AND MODELLING PROJECTS
 -------------------------------------------------------------------------
 
