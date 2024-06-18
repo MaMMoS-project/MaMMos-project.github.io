@@ -30,7 +30,7 @@ Materials Week 2024 – Strategic R&I for the Value Chains of the Future
 ----------------------------------------------------------------------
 
 
-From 17. to 21. June 2024 `MaterialsWeek 2024 <https://materials-week.org/>` took place in Cypres.
+From 17. to 21. June 2024 `MaterialsWeek 2024 <https://materials-week.org/>`_ took place in Cypres.
 MaterialsWeek 2024 aims to bring togetheer – for the first time –
 the numerous small and large Research and Innovation (R&I) communities
 that are driving advances in materials innovation manifested across
@@ -42,7 +42,7 @@ Lange Nacht der Forschung
 -------------------------
 
 
-On 24. May 2024, the `Lange Nacht der Forschung <https://www.donau-uni.ac.at/de/aktuelles/news/2024/lange-nacht-der-forschung-2024.html>`
+On 24. May 2024, the `Lange Nacht der Forschung <https://www.donau-uni.ac.at/de/aktuelles/news/2024/lange-nacht-der-forschung-2024.html>`_
 took place at various venues across Austria. Our research booth in Krems showcased
 how micromagnetic simulations and artificial intelligence can accelerate the discovery of
 eco-friendly, sustainable, and cost-effective permanent magnets. Visitors actively
@@ -57,8 +57,12 @@ of magnet research for the green energy transition in the fight against climate 
 .. image:: _static/LNF1.png
     :width: 600
 
+© Harald Özelt, Markus Gusenbauer
+
 .. image:: _static/LNF2.jpg
     :width: 600
+
+© Clemens Wager
 
 
 JOINT WORKSHOP ADVANCED MATERIALS CHARACTERISATION AND MODELLING PROJECTS
