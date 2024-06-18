@@ -26,6 +26,18 @@ was chaired by Thomas Schrefl (UWK) and with Heike Herper
 (Uppsala University) as invited speaker.
 
 
+Materials Week 2024 – Strategic R&I for the Value Chains of the Future
+----------------------------------------------------------------------
+
+
+From 17. to 21. June 2024 `MaterialsWeek 2024 <https://materials-week.org/>` took place in Cypres.
+MaterialsWeek 2024 aims to bring togetheer – for the first time –
+the numerous small and large Research and Innovation (R&I) communities
+that are driving advances in materials innovation manifested across
+diverse calue chains and industrial markets.
+:download:`Download abstract! <./_files/S03_T08_ThomasSchrefl.pdf>`
+
+
 JOINT WORKSHOP ADVANCED MATERIALS CHARACTERISATION AND MODELLING PROJECTS
 -------------------------------------------------------------------------
 
