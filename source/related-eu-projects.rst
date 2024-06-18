@@ -5,4 +5,4 @@ Related EU Projects
 
 `DECODE <https://decodeproject.eu/index.html>`_
 
-HyWay
+`HyWay <https://hywayse.eu/>`_
