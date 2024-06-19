@@ -70,6 +70,18 @@ of magnet research for the green energy transition in the fight against climate 
 © Clemens Wager
 
 
+`2024 Annual General Meeting (AGM) of EMMC <https://emmc.eu/events/emmc-agm2024/>`_
+-----------------------------------------------------------------------------------
+
+On **7th May** the 2024 Annual General Meeting (AGM) of EMMC took place in Cambridge (UK) and online.
+
+
+`Revision of CWA 17815:2021: “Materials Characterisation - Terminology, Metadata and Classification” <file://jupiter/Data/Sekretariat/DUK/PROJEKTE/MaMMoS/Website/Revision%20of%20CWA%2017815:2021:%20%E2%80%9CMaterials%20Characterisation%20-%20Terminology,%20Metadata%20and%20Classification%E2%80%9D>`_
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+The workshop organized from EMMC related initiative NanoMeCommons took place on **21st April 2024** online.
+
+
 JOINT WORKSHOP ADVANCED MATERIALS CHARACTERISATION AND MODELLING PROJECTS
 -------------------------------------------------------------------------
 
