@@ -37,6 +37,11 @@ that are driving advances in materials innovation manifested across
 diverse calue chains and industrial markets.
 :download:`Magnetic Multiscale Modelling Suite, Thomas Schrefl <./_files/S03_T08_ThomasSchrefl.pdf>`
 
+.. image:: _static/mw_photo.jpg
+    :width: 600
+
+© Alexander Kovacs, Thomas Schrefl
+
 
 `Lange Nacht der Forschung <https://langenachtderforschung.at/>`__
 ------------------------------------------------------------------
