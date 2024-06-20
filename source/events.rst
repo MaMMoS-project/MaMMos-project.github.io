@@ -40,7 +40,7 @@ diverse calue chains and industrial markets.
 .. image:: _static/mw_photo.jpg
     :width: 600
 
-© Alexander Kovacs, Thomas Schrefl
+© Alexander Simperler, Thomas Schrefl
 
 
 `Lange Nacht der Forschung <https://langenachtderforschung.at/>`__
