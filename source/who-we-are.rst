@@ -97,6 +97,7 @@ Team
 
     "`Andreas Marek <https://www.mpcdf.mpg.de/person/110526>`_", "Max-Planck Computing and Data Facility"
     "`Claas Filies <https://www.donau-uni.ac.at/de/universitaet/organisation/mitarbeiterinnen/person/4295351041>`_", "UWK Krems"
+    "`Christina Winkler <https://christina-winkler.github.io/about.html>`_"
     "`Edgar Bonet <https://www.researchgate.net/profile/Edgar-Bonet>`_", "NEEL, CNRS"
     "Gotthard Rieger", "Siemens AG"
     "`Hans Fangohr <https://www.mpsd.mpg.de/person/109584>`_", "MPSD"

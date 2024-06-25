@@ -76,10 +76,17 @@ of magnet research for the green energy transition in the fight against climate 
 On **7th May** the 2024 Annual General Meeting (AGM) of EMMC took place in Cambridge (UK) and online.
 
 
-`Revision of CWA 17815:2021: “Materials Characterisation - Terminology, Metadata and Classification” <file://jupiter/Data/Sekretariat/DUK/PROJEKTE/MaMMoS/Website/Revision%20of%20CWA%2017815:2021:%20%E2%80%9CMaterials%20Characterisation%20-%20Terminology,%20Metadata%20and%20Classification%E2%80%9D>`_
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+`Revision of CWA 17815:2021: “Materials Characterisation - Terminology, Metadata and Classification” - CEN-CENELEC (cencenelec.eu) <https://www.cencenelec.eu/news-and-events/news/2024/workshop/2024-04-22-nano/>`_
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-The workshop organized from EMMC related initiative NanoMeCommons took place on **21st April 2024** online.
+The workshop organized from EMMC related initiative NanoMeCommons-CEN Workshop took place on **24th April 2024**
+
+
+MaMMos and Open Model
+---------------------
+
+On **3rd April 2024** with Alex Simperler and Otello Roscioni.
+Intro to Open Model Functionality and how it can aid with the developments in MaMMoS.
 
 
 JOINT WORKSHOP ADVANCED MATERIALS CHARACTERISATION AND MODELLING PROJECTS
