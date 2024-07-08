@@ -101,7 +101,7 @@ Team
     "`Andrea Petrocchi <https://www.linkedin.com/in/andrea-petrocchi-935997189/?originalSubdomain=de>`_", "MPG"
     "`Claas Filies <https://www.donau-uni.ac.at/de/universitaet/organisation/mitarbeiterinnen/person/4295351041>`_", "UWK Krems"
     "`Didier Dufeu <https://magnetometrie.cnrs.fr/utilisateurs/ddufeu/>`_", "CNRS"
-    "`Christina Winkler <https://christina-winkler.github.io/about.html>`_"
+    "`Christina Winkler <https://christina-winkler.github.io/about.html>`_", "Max-Planck Computing and Data Facility"
     "Gotthard Rieger", "Siemens AG"
     "`Hans Fangohr <https://www.mpsd.mpg.de/person/109584>`_", "MPSD"
     "`Harald Özelt <http://wwwpub.donau-uni.ac.at/de/universitaet/organisation/mitarbeiterinnen/person/4295273246>`_", "UKW"
