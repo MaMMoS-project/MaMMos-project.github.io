@@ -1,6 +1,24 @@
 Events
 ======
 
+`DPG Spring meeting 2025, JEMS 2025 <https://www.dpg-physik.de/aktivitaeten-und-programme/tagungen/fruehjahrstagungen/2025?set_language=en>`_
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+The DPG Spring Meetings 2025 will take place **between 10th March and 4th April 2025**. New phases for PM (RE-free and RE-lean) from ab initio studies, transfer of data to larger length scales will be presented.
+
+
+`General public @ lab <https://www.fetedelascience.fr/>`_
+---------------------------------------------------------
+
+Up-coming on **12th October 2024:** Science en Fetes 2024 – lab open day; Short presentation about strategic nature of magnets, element criticality and micro-magnets, in front of a sputtering system 
+
+
+`IEEE Magnetic Frontiers Conference on Magnetic Materials and Motors for Green Energy Applications, Darmstadt <https://ieeemagnetics.org/event/conference/magnetics-frontiers-magnetic-materials-and-motors-green-energy-applications>`_
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**15th -19th September 2024:** Present high throughput combinatorial thin-film approach being developed and applied in the framework of MaMMoS
+
+
 `AI4AM2024 – Artificial Intellegence for Advanced Materials <https://ai4am.net/2024/program.php?d=03>`_
 -------------------------------------------------------------------------------------------------------
 
@@ -24,6 +42,7 @@ magnetic materials”
 A Focus Session under the topic of `Magnetism in the age of AI <https://www.icm2024.org/focus-symposia/>`_
 was chaired by Thomas Schrefl (UWK) and with Heike Herper
 (Uppsala University) as invited speaker.
+Focus Session: `Magnetism and Spintronics at the 2D/Interface Frontier <https://www.icm2024.org/focus-symposia/>`_ with invited speaker Nora Dempsey (CNRS).
 
 
 `Materials Week 2024 – Strategic R&I for the Value Chains of the Future <https://materials-week.org/>`_
@@ -31,7 +50,7 @@ was chaired by Thomas Schrefl (UWK) and with Heike Herper
 
 
 **From 17. to 21. June 2024** `MaterialsWeek 2024 <https://materials-week.org/>`_ took place in Cypres.
-MaterialsWeek 2024 aims to bring togetheer – for the first time –
+MaterialsWeek 2024 aims to bring together – for the first time –
 the numerous small and large Research and Innovation (R&I) communities
 that are driving advances in materials innovation manifested across
 diverse calue chains and industrial markets.
@@ -41,6 +60,18 @@ diverse calue chains and industrial markets.
     :width: 600
 
 © Alexander Simperler, Thomas Schrefl
+
+
+`Dresdner Lange Nacht der Wissenschaften (Dresden Long Night of Science) <https://www.wissenschaftsnacht-dresden.de/programm/detailansicht/strukturen-der-zukunft-die-mechanik-der-metamaterialien-13629>`_
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**14th June 2024:** An open evening of all scientific institutes and universities in Dresden. IFW presented an experimental stand showing demonstrators of permanent magnets. he event offered the opportunity to successful communication with many tens of visitors over a period of 5 hours.
+
+
+`Science City Day Hamburg <https://www.sciencecityday.de/>`_
+------------------------------------------------------------
+
+**1st June 2024:** Each institution on the DESY campus, including MPSD, open their doors to the public to showcase research, and experiments. This year we were demonstrating the Foucault pendulum and were engaged with hundreds of adults and children on the physics behind the Foucault pendulum.
 
 
 `Lange Nacht der Forschung <https://langenachtderforschung.at/>`__
@@ -76,10 +107,34 @@ of magnet research for the green energy transition in the fight against climate 
 On **7th May** the 2024 Annual General Meeting (AGM) of EMMC took place in Cambridge (UK) and online.
 
 
+Scientists @ high-school
+------------------------
+
+**6th May 2024:** "Amazing Physics" at the International High School (lycée Europole) in Grenoble. A Full day spent in the school by Nora Dempsey and William Rigaut. PPT presentation from Nora Dempsey, short oral presentation by William Rigaut and hands-on experiments about magnetism.
+
+
+`Intermag 2024, Rio de Janeiro, Brazil <https://intermag2024.org/>`_
+--------------------------------------------------------------------
+
+**5th  – 10th May 2024:** Presentation in the Intermag 2024 Conference by Sam Holt; Inform researchers about the phenomenon of Discretisation Anisotropy in micromagnetic simulations and how to avoid artifacts it creates. 
+
+
+Politicians @ lab
+-----------------
+
+**30th April 2024:** Lab visit by Raphaël Glucksmann (Member of the European Parliament) and entourage. After a short presentation about strategic nature of magnets, element criticality and micro-magnets, in front of a sputtering system a printed copy of “Rare Earth Magnets and Motors: A European Call for Action”, and a report by the Rare Earth Magnets and Motors Cluster of the European Raw Materials Alliance (Berlin 2021) was given to Raphaël Glucksmann
+
+
 `Revision of CWA 17815:2021: “Materials Characterisation - Terminology, Metadata and Classification” - CEN-CENELEC (cencenelec.eu) <https://www.cencenelec.eu/news-and-events/news/2024/workshop/2024-04-22-nano/>`_
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The workshop organized from EMMC related initiative NanoMeCommons-CEN Workshop took place on **24th April 2024**
+
+
+`Young Researchers Skyrmion Retreat 2024 <https://skyrmionics.ph.nat.tum.de/SPP-retreat-meeting/>`_
+---------------------------------------------------------------------------------------------------
+
+**21st – 25th April 2024:** Sam Holt presented information about the phenomenon of Discretisation Anisotropy in micromagnetic simulations and how to avoid artifacts it creates to young researchers and PhD students in the field of magnetism using micromagnetic simulations.
 
 
 MaMMos and Open Model
