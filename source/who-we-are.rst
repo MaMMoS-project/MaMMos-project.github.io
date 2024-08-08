@@ -98,7 +98,7 @@ Team
     "`Alena Vishina <https://www.uu.se/en/contact-and-organisation/staff?query=N18-2312>`_", "UU"
     "`Andreas Marek <https://www.mpcdf.mpg.de/person/110526>`_", "Max-Planck Computing and Data Facility"
     "`Alexander Kovacs <https://www.donau-uni.ac.at/de/universitaet/organisation/mitarbeiterinnen/person/4295279727>`_", "UWK"
-    "`Andrea Petrocchi <https://www.linkedin.com/in/andrea-petrocchi-935997189/?originalSubdomain=de>`_", "MPG"
+    "`Andrea Petrocchi <https://www.mpsd.mpg.de/person/135275/2736>`_", "MPG"
     "`Claas Filies <https://www.donau-uni.ac.at/de/universitaet/organisation/mitarbeiterinnen/person/4295351041>`_", "UWK Krems"
     "`Didier Dufeu <https://magnetometrie.cnrs.fr/utilisateurs/ddufeu/>`_", "CNRS"
     "`Christina Winkler <https://christina-winkler.github.io/about.html>`_", "Max-Planck Computing and Data Facility"
