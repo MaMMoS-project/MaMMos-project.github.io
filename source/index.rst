@@ -47,3 +47,13 @@ Disclaimer
 Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not
 necessarily reflect those of the European Union or European Health and Digital Executive Agency (HADEA). Neither
 the European Union nor the granting authority can be held responsible for them.
+
+Acknowledgments
+---------------
+
+.. figure:: _static/zulip-icon-128x128.png
+   :align: left
+   :scale: 50%
+   :target: https://zulip.com/
+
+Project MaMMoS is sponsored by `Zulip <https://zulip.com>`__. `Zulip <https://zulip.com>`__ is an organised team chat app designed for efficient communication, and used for project communication and software development within MaMMoS.
