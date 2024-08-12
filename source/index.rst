@@ -56,6 +56,4 @@ Acknowledgments
    :scale: 50%
    :target: https://zulip.com/
 
-|
-| `Zulip <https://zulip.com/>`_ is an organized team chat app designed for efficient communication.
-|
+Project MaMMoS is sponsored by `Zulip <https://zulip.com>`__. `Zulip <https://zulip.com>`__ is an organised team chat app designed for efficient communication, and used for project communication and software development within MaMMoS.
