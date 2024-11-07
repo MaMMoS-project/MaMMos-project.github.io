@@ -15,6 +15,7 @@
    who-we-are
    events
    news
+   open-positions
    related-eu-projects
 
 
