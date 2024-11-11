@@ -1,6 +1,36 @@
 Events
 ======
 
+`MMM Prague <https://mmm11.ipm.cz/>`_
+-----------------------------------
+
+Keynote talk at the `11th International Conference on Multiscale Materials Modelling <https://mmm11.ipm.cz/>`_, Sep 22-27, 2024 in Prague (Czech Republic).
+
+Thomas Schrefl, "Multiscale design of permanent magnets"
+
+.. image:: _static/modeling_techniques.png
+    :width: 800
+
+© Thomas Schrefl, UWK
+
+
+
+
+Focus group workshop on using AI for the development of *Green Materials*
+-------------------------------------------------------------------------
+
+How can AI be used to develop novel materials which have smaller environmental impact or support the Green Transformation?
+On Oct. 9, 2024, a focus group of high-level experts from research and industry met at MCL to tackle this topic in the framework of the study *Study-AI4GreenMat* (https://projekte.ffg.at/projekt/5121362).
+Thomas Schrefl represented the MaMMoS project.
+After a presentation of preliminary results from an extensive research and the online survey (https://ec.europa.eu/eusurvey/runner/AI4GreenMat) by Jürgen Spitaler and Hans-Peter Gänser from MCL, the participants worked hard on elaborating crucial aspects such as most promising materials, AI methods and use cases, sector-wise potential and requirements in terms of infrastructure and legal boundary conditions.
+The outcome of the workshop will feed into the study, which is done for the Austrian Ministry of Climate Action, Environment, Energy, Mobility, Innovation and Technology (BMK: https://www.bmk.gv.at/en.html).
+
+.. image:: _static/Study-AI4GreenMat.png
+    :width: 800
+
+© `Materials Center Leoben (MCL) <https://www.mcl.at/en/presse-news-media/news/news/focus-group-workshop-on-using-ai-for-the-development-of-green-materials/>`_
+
+
 `DPG Spring meeting 2025, JEMS 2025 <https://www.dpg-physik.de/aktivitaeten-und-programme/tagungen/fruehjahrstagungen/2025?set_language=en>`_
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
