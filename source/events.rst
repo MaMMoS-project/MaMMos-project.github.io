@@ -2,7 +2,7 @@ Events
 ======
 
 `MMM Prague <https://mmm11.ipm.cz/>`_
------------------------------------
+-------------------------------------
 
 Keynote talk at the `11th International Conference on Multiscale Materials Modelling <https://mmm11.ipm.cz/>`_, Sep 22-27, 2024 in Prague (Czech Republic).
 
